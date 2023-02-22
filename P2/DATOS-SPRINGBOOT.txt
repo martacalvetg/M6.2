@@ -1,0 +1,108 @@
+{
+"modelo":"Beta Mini Trial",
+"precio":40.0,
+"img_url":"../img/catalogo/50cc/BetaMiniTrial50cc.jpg",
+"categoria":"50cc"
+},
+{
+"modelo":"GasGas TXT Boy",
+"precio":40.0,
+"img_url":"../img/catalogo/50cc/GasGasTXTBoy50cc.jpg",
+"categoria":"50cc"
+}
+{
+"modelo":"Vertigo Mini Vandal",
+"precio":40.0,
+"img_url":"../img/catalogo/50cc/vertigoMiniVandal50cc.jpg",
+"categoria":"50cc"
+},
+{
+"modelo":"Beta Evo 2T 2021",
+"precio":50.0,
+"img_url":"../img/catalogo/125cc/Beta_Evo_2T_2021.jpg",
+"categoria":"125cc"
+},
+{
+"modelo":"Vertigo Combat Vertical 2019",
+"precio":50.0,
+"img_url":"../img/catalogo/125cc/VertigoCombatVertical2019.jpg",
+"categoria":"125cc"
+},
+{
+"modelo":"GasGas TXT Racing 2023",
+"precio":50.0,
+"img_url":"../img/catalogo/125cc/GasGasTXTRacing2023.jpg",
+"categoria":"125cc"
+},
+{
+"modelo":"Beta Evo 2021 4t",
+"precio":60.0,
+"img_url":"../img/catalogo/200cc/BetaEvo2021_4t.jpg",
+"categoria":"200cc"
+},
+{
+"modelo":"Vertigo Vertical 2020",
+"precio":60.0,
+"img_url":"../img/catalogo/200cc/VertigoVertical2020.jpg",
+"categoria":"200cc"
+},
+{
+"modelo":"GasGas 2008",
+"precio":60.0,
+"img_url":"../img/catalogo/200cc/GasGas2008.jpg",
+"categoria":"200cc"
+},
+{
+"modelo":"GasGas TXT Racing 2021",
+"precio":70.0,
+"img_url":"../img/catalogo/250cc/GasGasTXTRacing2021.jpg",
+"categoria":"250cc"
+},
+{
+"modelo":"Montesa Cota 4rt Race Replica 2015",
+"precio":70.0,
+"img_url":"../img/catalogo/250cc/MontesaCota4rtRaceReplica2015.jpg",
+"categoria":"250cc"
+},
+{
+"modelo":"Beta Evo 4t Factory",
+"precio":70.0,
+"img_url":"../img/catalogo/250cc/BetaEvo4tFactory.jpg",
+"categoria":"250cc"
+},
+{
+"modelo":"Montesa Cota 4rt 2017",
+"precio":80.0,
+"img_url":"../img/catalogo/300cc/MontesaCota4rt2017.jpg",
+"categoria":"300cc"
+},
+{
+"modelo":"Gasgas TXT Racing 2023",
+"precio":80.0,
+"img_url":"../img/catalogo/300cc/GasgasTXTRacing_2023.jpg",
+"categoria":"300cc"
+},
+{
+"modelo":"Sherco 300 ST Factory",
+"precio":80.0,
+"img_url":"../img/catalogo/300cc/Sherco300stFactory.jpg",
+"categoria":"300cc"
+},
+{
+"modelo":"Yamaha TY-E",
+"precio":80.0,
+"img_url":"../img/catalogo/Electricas/YamahaTY-E.png",
+"categoria":"Electrica"
+},
+{
+"modelo":"GasGas TXT E 2020",
+"precio":80.0,
+"img_url":"../img/catalogo/Electricas/GasGas_TXT_E_2020.jpg",
+"categoria":"Electrica"
+},
+{
+"modelo":"TRS ON-E",
+"precio":80.0,
+"img_url":"../img/catalogo/Electricas/TRS_ON-E.jpg",
+"categoria":"Electrica"
+}
